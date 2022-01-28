@@ -1,0 +1,23 @@
+{
+  "name": "money-tracker-api",
+  "version": "0.0.1",
+  "description": "Money tracker GraphQL and Express based API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablofonseca-dev/money-tracker-api.git"
+  },
+  "keywords": [
+    "MoneyTracker",
+    "API"
+  ],
+  "author": "Pablo Fonseca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablofonseca-dev/money-tracker-api/issues"
+  },
+  "homepage": "https://github.com/pablofonseca-dev/money-tracker-api#readme"
+}
